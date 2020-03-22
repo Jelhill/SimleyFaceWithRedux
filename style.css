@@ -1,0 +1,35 @@
+#faceholder{
+    height: 400px;
+    width: 50%;
+    background-color: lightgreen;
+    margin: auto;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 100px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.buttons {
+    width: 50%;
+    height: 100px;
+    margin: auto;
+    background-color: lightgreen;
+    padding-top: 20px;
+    box-sizing: border-box;
+    padding-left: 40px;
+}
+button {
+    height: 40px;
+    width: 140px;
+    margin-left: 5px;
+    background-color: #f44336;
+    color: #FFF;
+    border: #008CBA;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+button:hover{
+    opacity: 0.7;
+}
